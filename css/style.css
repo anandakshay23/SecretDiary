@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&family=Pathway+Gothic+One&family=Space+Grotesk&family=Style+Script&display=swap");
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+html {
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body {
+    background: none;
+    color: white;
+}
+.hidden {
+    display: none;
+}
+
+#formContainer {
+    width: 400px;
+    height: 100%;
+    margin-top: 50px;
+}
+
+#emailHelp {
+    color: rgb(219, 219, 219);
+}
+
+#diaryContainer {
+    height: 95%;
+    margin-top: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 94%;
+    resize: none;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.logo-name {
+    font-family: "Style Script", cursive;
+}
+#user-name {
+    font-family: "Pathway Gothic One", sans-serif;
+    font-size: 120%;
+    padding-top: 8px;
+}
+#navbarLogo {
+    font-size: 180%;
+}
+strong {
+    font-family: "PT Sans", sans-serif;
+    font-size: 120%;
+}
+#main-logo {
+    font-size: 400%;
+}
