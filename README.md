@@ -1,5 +1,5 @@
 # Secret Diary
-## Web App designed for storing people daily memories inform of a digital diary!
+## Web App designed for storing people daily memories inform of a digital diary! And it is very useful app which helps us to hide all our secrets
 
 
 #### Tech Stack Used :
